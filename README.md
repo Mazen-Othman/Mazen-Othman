@@ -1,6 +1,6 @@
 # Hi Thare!
 - 😄 I’m @Mazen-Othman
-- 👷 FullStack Web & Mobile Apps developer.
+- 👷 Softwere Engeneer
 - 👀 Interested in AI - Deep Learning.
 - 💞️ I’m looking to collaborate on big projects that can help the world and makes life eazier.
 - 📫 You can contact me on **[Twitter](https://twitter.com/I_m_z1)** or **[Telegram](https://t.me/maz3n_othman)**.
